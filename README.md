@@ -1,6 +1,7 @@
 # Mod-3-Project
 
 # Life After Covid
+<a href='https://fbado66.github.io/Life-after-Covid/'><img src='image/main_banner.png'></a>
 
 Life After Covifd is a (SPA) single-page web application that allows users to purchase PPE products. <br>
 The inspiration of this app came to us while brainstorming for ideas on what problems we can attemp to resolve during this diffcult time. The products displayed in here have become neccessary items in our every day life. <br>
