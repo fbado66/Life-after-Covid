@@ -23,17 +23,17 @@ Users can navigate through a list of PPE products and select the products they w
  * There are 6 models that have the following associations ```has_many, belongs_to and has_many, through: ```
 ## Domain Model
 
-<img src='FRONTEND/image/ERD.png'> </img>
+<img src='/image/ERD.png'> </img>
 
 ## Wireframe
 
-<img src='FRONTEND/image/wireframe1.png'> </img>
+<img src='image/wireframe1.png'> </img>
 
-<img src='FRONTEND/image/wireframe4.png'> </img>
+<img src='/image/wireframe4.png'> </img>
 
-<img src='FRONTEND/image/wireframe2.png'> </img>
+<img src='/image/wireframe2.png'> </img>
 
-<img src='FRONTEND/image/wireframe3.png'> </img>
+<img src='/image/wireframe3.png'> </img>
 
 
 ## Tech Stack
